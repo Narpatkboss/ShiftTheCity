@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480335847097",
+    "project_id": "shiftthecity08",
+    "storage_bucket": "shiftthecity08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480335847097:android:3d274a0542353ae8990568",
+        "android_client_info": {
+          "package_name": "com.example.shiftthecity08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480335847097-v76m055t91beeanli44h7udoh9ludkes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADx-cuu6OV6Rl1KyFhPXilvvh3XNXWkKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480335847097-v76m055t91beeanli44h7udoh9ludkes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
