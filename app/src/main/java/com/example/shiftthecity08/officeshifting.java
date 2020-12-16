@@ -14,12 +14,6 @@ public class officeshifting extends AppCompatActivity {
         setContentView(R.layout.activity_officeshifting);
     }
 
-    public void multiflatofficeshifting(View view)
-    {
-        Intent intent=new Intent(officeshifting.this,multiflatoffice.class);
-        startActivity(intent);
-    }
-
     public void normalofficeshifting(View view)
     {
         Intent intent=new Intent(officeshifting.this,normaloffice.class);

@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.database.Cursor;
 import android.os.Bundle;
-import android.provider.ContactsContract;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -55,7 +54,7 @@ public class BHK1 extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
 
-                        boolean isInserted=myDb.insertData(t1.getText().toString(),t2.getText().toString(),t3.getText().toString());
+                        boolean isInserted=myDb.insertData(t1.getText().toString(),t2.getText().toString(),t3.getText().toString(),t4.getText().toString());
                              if(isInserted==true)
                                  Toast.makeText(BHK1.this, "Data Inserted Successful", Toast.LENGTH_LONG).show();
                              else

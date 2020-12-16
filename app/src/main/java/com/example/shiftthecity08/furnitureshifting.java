@@ -16,7 +16,7 @@ public class furnitureshifting extends AppCompatActivity {
 
     public void gotofurnitureshifting(View view)
     {
-        Intent intent=new Intent(furnitureshifting.this,furnitureshifting2.class);
+        Intent intent=new Intent(furnitureshifting.this,furnitureshiftingdash.class);
         startActivity(intent);
     }
 }

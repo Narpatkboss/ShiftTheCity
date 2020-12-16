@@ -11,10 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShiftTheCity08">
-        <activity android:name=".BHK1"></activity>
+        <activity android:name=".furnitureshiftingdash"></activity>
+        <activity android:name=".BHK1" />
         <activity android:name=".View1BHK" />
-        <activity android:name=".furnitureshifting2" />
-        <activity android:name=".multiflatoffice" />
         <activity android:name=".normaloffice" />
         <activity android:name=".furnitureshifting" />
         <activity android:name=".officeshifting" />
